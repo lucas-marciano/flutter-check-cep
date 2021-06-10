@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "232315114219",
+    "project_id": "crudexflutter",
+    "storage_bucket": "crudexflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232315114219:android:4e9b476aa110df14cc64ae",
+        "android_client_info": {
+          "package_name": "com.example.cadastro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "232315114219-r0ivta2adhq5l3ke6p9t2fid0f9to004.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdcSb6eAPPX_sUKd9Qj8uiqBoywWN-6og"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "232315114219-r0ivta2adhq5l3ke6p9t2fid0f9to004.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
